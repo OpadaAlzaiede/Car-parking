@@ -1,0 +1,20 @@
+name: Zones
+description: ''
+endpoints:
+  -
+    httpMethods:
+      - GET
+    uri: api/v1/zones
+    metadata:
+      title: ''
+      description: ''
+      authenticated: false
+      custom: []
+    headers:
+      Content-Type: application/json
+      Accept: application/json
+    urlParameters: []
+    queryParameters: []
+    bodyParameters: []
+    responses: []
+    responseFields: []
